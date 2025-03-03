@@ -1,4 +1,4 @@
 #[test]
-fn test1() {
-    assert_eq!(1 + 1, 2);
+fn simpleArraySum(ar: &[i32]) -> i32 {
+    ar.iter().sum()
 }
