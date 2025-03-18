@@ -1,7 +1,7 @@
 #[test]
 
 use std::env;
-
+/*fdf*/
 fn main() {
     const W: u32 = 25;
     const H: u32 = 10;
