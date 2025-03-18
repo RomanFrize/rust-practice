@@ -28,6 +28,8 @@ fn main() {
 
     let result = simple_array_sum(&ar);
 
+    println!("{}", result);
+
     writeln!(&mut fptr, "{}", result).ok();
 }
 
