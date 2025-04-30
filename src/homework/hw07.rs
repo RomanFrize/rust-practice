@@ -12,6 +12,7 @@ fn invert_the_case(s: String) -> String {
         .collect()
 }
 
+
 fn main() {
     let examples = ["Hello", "Привет", "123aB!", "RUST"];
     for input in examples {
