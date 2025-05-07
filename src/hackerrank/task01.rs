@@ -1,4 +1,4 @@
-#[test]
+/*#[test]
 
 /*fn simple_array_sum(ar: &[i32]) -> i32 {
     ar.iter().sum()
@@ -32,4 +32,4 @@ fn main() {
 
     writeln!(&mut fptr, "{}", result).ok();
 }
-
+*/

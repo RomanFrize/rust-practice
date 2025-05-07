@@ -1,4 +1,4 @@
-#[test]
+/*#[test]
 
 use std::env;
 /*fdf*/
@@ -23,4 +23,4 @@ fn main() {
         }
         println!();
     }
-}
+}*/
