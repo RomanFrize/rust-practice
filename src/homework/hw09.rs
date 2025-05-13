@@ -1,5 +1,5 @@
 /// Повертає новий рядок, у якому символи зсунуті на `n` позицій вправо.
-/*fn rotate(s: String, n: isize) -> String {
+fn rotate(s: String, n: isize) -> String {
     let len = s.len() as isize;
     if len == 0 {
         return s;
@@ -43,4 +43,4 @@ fn main() {
             n, result, expected, status
         );
     }
-}*/
+}

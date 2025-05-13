@@ -1,4 +1,4 @@
-/*use std::env;
+use std::env;
 use std::fs::File;
 use std::io::{self, BufRead, Write};
 
@@ -45,4 +45,3 @@ fn main() {
 
     writeln!(&mut fptr, "{}", result).ok();
 }
-*/
